@@ -16,7 +16,7 @@ The **Companies** is the only one of our tables that contains location informati
 
 ## 2. Filter the data
 
-We don't have location information for every company (alas!), so let's filter this table so that it only shows companies for which we do have locations. This will make mapping easier later. Add a flter **Where Location founded is not empty**.
+We don't have location information for every company (alas!), so let's filter this table so that it only shows companies for which we do have locations. This will make mapping easier later. Add a filter **Where Location founded is not empty**.
 
 ![][2]
 
